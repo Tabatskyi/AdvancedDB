@@ -4,5 +4,5 @@ __pycache__
 *.pyc
 *.pyo
 *.pyd
-/practice3/*.py
-/practice3/*.txt
+/practice[34]/*.py
+/practice[34]/*.txt
