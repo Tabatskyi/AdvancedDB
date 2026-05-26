@@ -1,7 +1,7 @@
 services:
   postgres:
     image: postgres:latest
-    container_name: pg_monitor_lab
+    container_name: advanceddb_postgres
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: supersecretpassword
